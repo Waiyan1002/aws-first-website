@@ -14,7 +14,7 @@ This is my first cloud project built using AWS S3.
 - GitHub
 
 ## 🌍 Live Website
-(Add your S3 website link here)
+http://my-first-website-12345-118156526533-ap-southeast-2-an.s3-website-ap-southeast-2.amazonaws.com
 
 ## 📌 What I learned
 - How cloud storage works
